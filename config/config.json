@@ -1,0 +1,14 @@
+{
+    "EmailFrom": "your-email@example.com",
+    "EmailTo": "recipient-email@example.com",
+    "AppPassword": "xxxx xxxx xxxx xxxx",
+    "SMTPServer": "smtp.gmail.com",
+    "SMTPPort": 587,
+    "CPUThreshold": 80,
+    "RAMThreshold": 80,
+    "DiskThreshold": 90,
+    "LogDir": "C:\\SHM\\logs",
+    "DataCollectorName": "SystemHealthMonitor",
+    "TaskName": "SHETrigger",
+    "ScriptPath": "C:\\SHM\\scripts\\alert.ps1"
+}
