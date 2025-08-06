@@ -74,6 +74,7 @@ C:\SHM
 │   └── utils.ps1
 ├── tests
 │   └── test_alert.ps1
+│   └── test_email.ps1
 ├── README.md
 ```
 
@@ -81,7 +82,7 @@ C:\SHM
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone nminhducit/system-health-monitoring
    cd SHM
    ```
 
@@ -215,6 +216,6 @@ We welcome contributions to enhance SHM! To contribute:
 
 ## Contact
 
-For questions or suggestions, open an issue on GitHub or contact [Your Name] at [your-email@example.com].
+For questions or suggestions, open an issue on GitHub or contact Nguyen Minh Duc at nminhducit@gmail.com.
 
 ---
